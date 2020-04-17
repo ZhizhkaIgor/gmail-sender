@@ -10,8 +10,8 @@ import javax.mail.internet.*;
 public class SendMail{  
  public static void main(String[] args) {  
 
-  final String user="lifeforlovedate@gmail.com";//change accordingly  
-  final String password="julia1968";//change accordingly  
+  final String user="*****";//change accordingly  
+  final String password="*******";//change accordingly  
   int count = 1;
   Date sendDate = new Date();
    //Get the session object  
